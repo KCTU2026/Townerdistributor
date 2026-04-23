@@ -1,0 +1,32 @@
+{
+  "name": "towner-distributor",
+  "version": "1.0.0",
+  "description": "Towner Distributor Opportunity Platform",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://x-access-token:ghs_zCBaSIHfz3gUfKS7WQhDpzCf0gz6PO0efMsV@github.com/KCTU2026/Townerdistributor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KCTU2026/Townerdistributor/issues"
+  },
+  "homepage": "https://github.com/KCTU2026/Townerdistributor#readme",
+  "dependencies": {
+    "next": "^16.2.4",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  },
+  "devDependencies": {
+    "@types/node": "25.6.0",
+    "@types/react": "19.2.14",
+    "typescript": "6.0.3"
+  }
+}
