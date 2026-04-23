@@ -627,10 +627,10 @@ export default function Home() {
           Join as a Towner Distributor Today
         </div>
         <div className="cta-btns">
-          <a href="tel:+918000000000" className="btn-white">
+          <a href="tel:+919739758870" className="btn-white">
             👉 ಇಂದೇ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ / Apply Now
           </a>
-          <a href="https://wa.me/918000000000" className="btn-outline-white">
+          <a href="https://wa.me/919739758870" className="btn-outline-white">
             💬 WhatsApp ಮಾಡಿ / WhatsApp Us
           </a>
         </div>
